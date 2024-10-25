@@ -5,10 +5,24 @@ import { motion, useScroll, useSpring, useTransform } from "framer-motion";
 const items = [
   {
     id: 1,
-    title: "MERN ESTATE App",
+    title: "E-Commerce Store",
     img: "/project1.png",
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores ab id ad nesciunt quo aut corporis modi? Voluptate, quos sunt dolorum facilis, id eum sequi placeat accusantium saepe eos laborum.",
-    demo:"https://yesuestate.onrender.com/"
+    demo:"https://e-commerce8415.onrender.com/"
+  },
+  {
+    id: 5,
+    title: "Threads App with Real-Time Chat Functionality",
+    img: "/project5.png",
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores ab id ad nesciunt quo aut corporis modi? Voluptate, quos sunt dolorum facilis, id eum sequi placeat accusantium saepe eos laborum.",
+    demo:"https://threads8415.onrender.com/"
+  },
+  {
+    id: 6,
+    title: "MERN Netflix Clone",
+    img: "/project6.png",
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores ab id ad nesciunt quo aut corporis modi? Voluptate, quos sunt dolorum facilis, id eum sequi placeat accusantium saepe eos laborum.",
+    demo:"https://netflix8415.onrender.com/"
   },
   {
     id: 2,
@@ -23,13 +37,6 @@ const items = [
     img: "project3.png",
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores ab id ad nesciunt quo aut corporis modi? Voluptate, quos sunt dolorum facilis, id eum sequi placeat accusantium saepe eos laborum.",
     demo: "https://yesu-tmdb.vercel.app/"
-  },
-  {
-    id: 4,
-    title: "Photo Editing App",
-    img: "project4.png",
-    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores ab id ad nesciunt quo aut corporis modi? Voluptate, quos sunt dolorum facilis, id eum sequi placeat accusantium saepe eos laborum.",
-    demo : "https://4727yesu-photo-edit.netlify.app/"
   },
 ];
 
