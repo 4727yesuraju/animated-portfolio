@@ -6,21 +6,21 @@ const items = [
   {
     id: 1,
     title: "E-Commerce Store",
-    img: "/project1.png",
+    img: "project1.png",
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores ab id ad nesciunt quo aut corporis modi? Voluptate, quos sunt dolorum facilis, id eum sequi placeat accusantium saepe eos laborum.",
     demo:"https://e-commerce8415.onrender.com/"
   },
   {
     id: 5,
     title: "Threads App with Real-Time Chat Functionality",
-    img: "/project5.png",
+    img: "project5.png",
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores ab id ad nesciunt quo aut corporis modi? Voluptate, quos sunt dolorum facilis, id eum sequi placeat accusantium saepe eos laborum.",
     demo:"https://threads8415.onrender.com/"
   },
   {
     id: 6,
     title: "MERN Netflix Clone",
-    img: "/project6.png",
+    img: "project6.png",
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores ab id ad nesciunt quo aut corporis modi? Voluptate, quos sunt dolorum facilis, id eum sequi placeat accusantium saepe eos laborum.",
     demo:"https://netflix8415.onrender.com/"
   },
